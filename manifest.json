@@ -1,0 +1,56 @@
+{
+  "assets": {
+    "original-OCF-BOD-005": {
+      "bytes": 79951886,
+      "sha256": "06edee2c01cccb4b94a5a63170f20bf672a7e99bbf97eef55e99a318e5e9ee13",
+      "source": "https://github.com/ocfproject-org/open-consciousness-functions-audio/releases/download/audio-0.3.0/OCF-BOD-005---Appetite-Choice---en-US---Mike---Original-Voice---v0.3.0-b61b3abb3c2c.flac"
+    },
+    "original-OCF-BOD-010": {
+      "bytes": 87792902,
+      "sha256": "73a325299833198ab094b74bb1c87d9abe4453d48157f23d61773320ca9cf3f3",
+      "source": "https://github.com/ocfproject-org/open-consciousness-functions-audio/releases/download/audio-0.3.0/OCF-BOD-010---Nutricia---en-US---Mike---Original-Voice---v0.3.0-ba710e15bc84.flac"
+    },
+    "original-OCF-BOD-015": {
+      "bytes": 86098464,
+      "sha256": "965e8533d16d87c05bc7f1bccb3f300c30e120da71289042941ed09ce10bf18d",
+      "source": "https://github.com/ocfproject-org/open-consciousness-functions-audio/releases/download/audio-0.3.0/OCF-BOD-015---Temporary-Numbing---en-US---Mike---Original-Voice---v0.3.0-114e85e61e2d.flac"
+    },
+    "original-OCF-COG-006": {
+      "bytes": 73939034,
+      "sha256": "df2a9aeef78a01508c1d403b2f83c55d915ab55e15b1f3926dc0900cd7451af0",
+      "source": "https://github.com/ocfproject-org/open-consciousness-functions-audio/releases/download/audio-0.3.0/OCF-COG-006---Recall---en-US---Mike---Original-Voice---v0.3.0-3ba92afa8e32.flac"
+    },
+    "original-OCF-COM-001": {
+      "bytes": 82656283,
+      "sha256": "32fc9dc51c98c373819154ca63557d1ea5045386ab6b902439523384eb74a46a",
+      "source": "https://github.com/ocfproject-org/open-consciousness-functions-audio/releases/download/audio-0.3.0/OCF-COM-001---Speak-Up---en-US---Mike---Original-Voice---v0.3.0-1c30f8f8ef19.flac"
+    },
+    "original-OCF-EXP-001": {
+      "bytes": 91916418,
+      "sha256": "f4b0f2c38ea76684fe316935995920c6043253c2fba02a8fd4e6e592a9adbe91",
+      "source": "https://github.com/ocfproject-org/open-consciousness-functions-audio/releases/download/audio-0.3.0/OCF-EXP-001---Manifest---en-US---Mike---Original-Voice---v0.3.0-1d60ce323364.flac"
+    },
+    "original-OCF-LIF-001": {
+      "bytes": 75781731,
+      "sha256": "6663c58dc1bd46459205505beef99abfdfc8bdd13a3865b55a5b7824ec1043f7",
+      "source": "https://github.com/ocfproject-org/open-consciousness-functions-audio/releases/download/audio-0.3.0/OCF-LIF-001---Habit-Freedom---en-US---Mike---Original-Voice---v0.3.0-26b9ed9f7455.flac"
+    },
+    "original-OCF-SEN-003": {
+      "bytes": 84271204,
+      "sha256": "9400fc29356d72be88b9000afba9f110ce2e7f54799f2e27bca58b6c74665df7",
+      "source": "https://github.com/ocfproject-org/open-consciousness-functions-audio/releases/download/audio-0.3.0/OCF-SEN-003---Smell---en-US---Mike---Original-Voice---v0.3.0-215551de134c.flac"
+    },
+    "original-OCF-SLP-004": {
+      "bytes": 81636001,
+      "sha256": "063ae30dfb05b3b1ffd821671c84ec286ed8add1ae28c729b71b9def7f1c4445",
+      "source": "https://github.com/ocfproject-org/open-consciousness-functions-audio/releases/download/audio-0.3.0/OCF-SLP-004---Sleep-Insight---en-US---Mike---Original-Voice---v0.3.0-6f8f730f3833.flac"
+    },
+    "original-OCF-SLP-006": {
+      "bytes": 77300880,
+      "sha256": "5966d4aee63608f82e1f1e797aa86aecbf56903025258a76418bacf040efeb55",
+      "source": "https://github.com/ocfproject-org/open-consciousness-functions-audio/releases/download/audio-0.3.0/OCF-SLP-006---Stay-Awake---en-US---Mike---Original-Voice---v0.3.0-d8f45e332666.flac"
+    }
+  },
+  "route": "v0.3.0",
+  "schema": 1
+}
